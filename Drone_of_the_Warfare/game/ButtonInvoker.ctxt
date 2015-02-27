@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ click()
+comment1.params=command
+comment1.target=void\ setCommand(CommandInterface)
+numComments=2

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=x2\ y2
+comment0.target=double\ getAngle(int,\ int)
+comment1.params=
+comment1.target=int\ getSpeed()
+comment2.params=
+comment2.target=int\ getRandomFactor()
+comment3.params=
+comment3.target=int\ getNextlevelScoreActivation()
+comment4.params=
+comment4.target=LevelStrategy\ getNextLevelStrategy()
+comment5.params=
+comment5.target=java.lang.String\ getBackgroundImage()
+comment6.params=
+comment6.target=int\ getCounterToRelaseMissile()
+comment7.params=
+comment7.target=int\ getStartCounterForLaunch()
+numComments=8

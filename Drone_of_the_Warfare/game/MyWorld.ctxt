@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MyWorld()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\r\n\ \r\n
+comment1.params=
+comment1.target=void\ prepare()
+comment1.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\ That\ is\:\ create\ the\ initial\r\n\ objects\ and\ add\ them\ to\ the\ world.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ scrollBackground()
+comment4.params=observer
+comment4.target=void\ addObserver(Observer)
+comment5.params=observer
+comment5.target=void\ removeObserver(Observer)
+comment6.params=damageX1\ damageX2
+comment6.target=void\ notifyObserver(int,\ int)
+comment7.params=
+comment7.target=Counter\ getPlaneHealthCounter()
+numComments=8

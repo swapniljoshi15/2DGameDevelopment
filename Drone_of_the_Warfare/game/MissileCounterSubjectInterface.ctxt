@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=missileScores
+comment0.target=void\ addObserver(MissileScores)
+comment1.params=missileScores
+comment1.target=void\ removeObserver(MissileScores)
+comment2.params=missileType
+comment2.target=void\ notifyObservers(java.lang.String)
+numComments=3

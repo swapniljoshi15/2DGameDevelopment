@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=randomSeed
+comment0.target=int\ getRandomNumber(int)
+comment1.params=
+comment1.target=java.lang.String\ getRandomTank()
+comment2.params=timeInMilliseconds
+comment2.target=void\ doNothing(int)
+comment3.params=start\ end
+comment3.target=int\ getRandomAngleInRange(int,\ int)
+comment4.params=p1x\ p1y\ p2x\ p2y
+comment4.target=int\ getAngle(int,\ int,\ int,\ int)
+numComments=5

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="game"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Swapnil/Desktop/sjsu/202/assignment/work/jar/greenfoot.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Swapnil/Desktop/sjsu/202/assignment/work/jar/submitter.jar"/>
+	<classpathentry kind="output" path="game"/>
+</classpath>
